@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /teaching/
 title: teaching
@@ -13,4 +13,4 @@ ME/EE/CS 133 [Robotics](https://www.cms.caltech.edu/academics/courses/mecsee-133
 
 ACM 95/100 [Methods of Applied Mathematics for the Physical Sciences](https://www.cms.caltech.edu/academics/courses/acm-95100-ab)
 
-ME 12 [Mechanics](https://mce.caltech.edu/academics/courses/me-12-abc)
+ME 12 [Mechanics](https://mce.caltech.edu/academics/courses/me-12-abc) -->
