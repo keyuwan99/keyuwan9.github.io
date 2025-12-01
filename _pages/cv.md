@@ -1,7 +1,7 @@
 ---
 layout: cv
-# permalink: /cv/
-url: /assets/pdf/Resume_Keyu%20Wan.pdf
+permalink: /cv/
+# permalink: /assets/pdf/Resume_Keyu%20Wan.pdf
 title: cv
 nav: true
 nav_order: 5
