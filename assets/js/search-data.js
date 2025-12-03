@@ -9,11 +9,17 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "news-research-a-virtual-human-exoskeleton-framework-for-personalized-gait-coordination-received-first-place-at-the-gee-family-surf-poster-competition-hosted-by-caltech-student-faculty-programs-i-am-grateful-for-the-recognition-and-for-the-support-of-the-caltech-faculty-and-review-committee",
+  },{id: "news-i-will-be-presenting-my-research-at-2024-society-for-neuroscience-annual-meeting-as-a-george-w-housner-student-discovery-fund-fellow-in-chicago-if-you-will-be-attending-sfn-as-well-i-would-be-delighted-to-meet-and-chat",
+          title: 'I will be presenting my research at 2024 Society for Neuroscience Annual Meeting...',
+          description: "",
+          section: "News",},{id: "news-research-a-virtual-human-exoskeleton-framework-for-personalized-gait-coordination-received-first-place-at-the-gee-family-surf-poster-competition-hosted-by-caltech-student-faculty-programs-i-am-grateful-for-the-recognition-and-for-the-support-of-the-caltech-faculty-and-review-committee",
           title: 'Research “A Virtual Human–Exoskeleton Framework for Personalized Gait Coordination” received First Place at...',
           description: "",
           section: "News",},{id: "news-received-aaas-student-e-poster-competition-first-place-i-will-be-giving-an-oral-presentation-at-the-aaas-annual-conference-in-boston-if-you-will-be-attending-i-would-be-happy-to-meet-and-chat",
           title: 'Received AAAS Student E-Poster Competition First Place. I will be giving an oral...',
+          description: "",
+          section: "News",},{id: "news-arrived-at-harvard-university-bionics-lab-and-started-working-with-prof-shriya-srinivasan-on-multimodal-modeling-and-prediction-of-neuromuscular-fatigue-for-intelligent-control-during-functional-electrical-stimulation-of-a-murine-hindlimb-i-am-excited-to-build-deep-learning-models-with-physiology-informed-features-to-predict-fatigue-and-guide-adaptive-stimulation",
+          title: 'Arrived at Harvard University BIONICS LAB and started working with Prof. Shriya Srinivasan...',
           description: "",
           section: "News",},{id: "news-design-and-analysis-of-bio-inspired-soft-body-morphing-quadcopter-received-the-best-paper-in-mechantronics-award-at-the-31st-ieee-international-conference-on-mechatronics-and-machine-vision-in-practice-m2vip",
           title: 'Design and Analysis of Bio-inspired Soft Body Morphing Quadcopter received the Best Paper...',
