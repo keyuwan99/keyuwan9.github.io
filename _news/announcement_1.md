@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Research **"A Virtual Human–Exoskeleton Framework for Personalized Gait Coordination"** received First Place at the [Gee Family SURF Poster Competition](https://sfp.caltech.edu/undergraduate-research/communication-competitions/gee-family-surf-poster-competition) hosted by Caltech Student-Faculty Programs. I am grateful for the recognition and for the support of the Caltech faculty and review committee.
-

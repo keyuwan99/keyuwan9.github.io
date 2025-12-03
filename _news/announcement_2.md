@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 Received [AAAS](https://meetings.aaas.org) Student E-Poster Competition First Place. I will be giving an oral presentation at the AAAS Annual Conference in Boston. If you will be attending, I would be happy to meet and chat!
-
-
